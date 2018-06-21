@@ -53,7 +53,7 @@
 
 ### Plugin Manage(Vundle)
 
-In this configuration，I use [**Vundle**](https://github.com/VundleVim/Vundle.vim) as plugins manager. Vundle will auto manage the `.vim` directory，all plugins which has benn configured will be download to `~/.vim/bundle/` by default, please keep the `.vim` directory clean before use it. When Vundle install plugins will trigger `git clone` opration，the search opration need `curl` .
+In this configuration，I use [**Vundle**](https://github.com/VundleVim/Vundle.vim) as plugins manager. Vundle will auto manage the `.vim` directory，all plugins which have been configured will be downloaded to `~/.vim/bundle/` by default, please keep the `.vim` directory clean before using it. When Vundle installs plugins, it will trigger `git clone` operation，the search opration needs `curl`.
 
 #### Configuration(one part)
 
@@ -99,7 +99,7 @@ Plugin 'kien/tabman.vim'
 
 ### Project file browser（NERDTree）
 
-In this configuration，I use [**NERDTree**](https://github.com/scrooloose/nerdtree) as file browser. The NERDTree allows you to explore your filesystem and to open files and directory. It also allows you to hide files or set bookmarks etc. In NERDTree window input `?` can get the opration guide. This configuration filters out `.pyc`, `.git`, `.hg`, `.svn` etc.
+In this configuration，I use [**NERDTree**](https://github.com/scrooloose/nerdtree) as file browser. The NERDTree allows you to explore your filesystem and to open files and directories. It also allows you to hide files or set bookmarks etc. In NERDTree window input `?` can get the opration guide. This configuration filters out `.pyc`, `.git`, `.hg`, `.svn` etc.
 
 #### Configuration
 
